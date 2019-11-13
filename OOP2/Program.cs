@@ -27,7 +27,7 @@ namespace OOP2
                 new Worker("Kalle", "Bertilsson", 8000, 8),
                 new Worker("Sara", "Kallekalasson", 5000, 9),
                 new Worker("Rare","Tyres", 10000, 8),
-                new Worker("Humpa", "Klumpa", 12000, 8),
+                new Worker("Humpa", "Lumpa", 12000, 8),
                 new Worker("Dega", "Klet", 1000, 8)
             };
 
